@@ -14,3 +14,16 @@ h1  {
 p   {
     color:white;
 }
+
+.animated {
+  transition-property: background-color;
+  transition-duration: 3s;
+}
+
+.image-wrapper {
+    width: 100%;
+    position: relative;
+}
+.button-wrapper {
+    position: relative;   
+}
